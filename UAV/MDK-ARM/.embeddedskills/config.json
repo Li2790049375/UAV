@@ -1,0 +1,7 @@
+{
+  "keil": {
+    "project": "UAV.uvprojx",
+    "target": "UAV",
+    "log_dir": ".embeddedskills/build"
+  }
+}

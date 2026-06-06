@@ -1,0 +1,24 @@
+{
+  "last_build": {
+    "provider": "keil",
+    "action": "build",
+    "project": "UAV.uvprojx",
+    "target": "UAV",
+    "log_dir": ".embeddedskills/build",
+    "artifacts": {
+      "axf_file": "UAV/UAV.axf",
+      "hex_file": "UAV/UAV.hex",
+      "flash_file": "UAV/UAV.hex",
+      "debug_file": "UAV/UAV.axf",
+      "output_dir": "UAV",
+      "log_file": ".embeddedskills/build/UAV-UAV-build.log"
+    },
+    "axf_file": "UAV/UAV.axf",
+    "hex_file": "UAV/UAV.hex",
+    "flash_file": "UAV/UAV.hex",
+    "debug_file": "UAV/UAV.axf",
+    "output_dir": "UAV",
+    "log_file": ".embeddedskills/build/UAV-UAV-build.log",
+    "timestamp": "2026-05-29T13:21:56+08:00"
+  }
+}

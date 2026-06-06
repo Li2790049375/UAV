@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex Debug (J-Link)",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "jlink",
+            "device": "STM32F103C8",
+            "interface": "swd",
+            "cwd": "${workspaceFolder}",
+            "executable": "./MDK-ARM/UAV/UAV.axf",
+            "runToEntryPoint": "main",
+            "svdFile": "${workspaceFolder}/STM32F103.svd"
+        }
+    ]
+}
